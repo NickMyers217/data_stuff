@@ -1,0 +1,15 @@
+{
+  "name": "stupid_shit",
+  "version": "1.0.0",
+  "description": "parse stupid shit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nickmyers217",
+  "license": "WTFPL",
+  "dependencies": {
+    "node-xlsx": "^0.11.2"
+  }
+}
