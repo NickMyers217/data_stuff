@@ -7,7 +7,7 @@
 	npm install
 	```
 	That should install everything the project needs to run. If this does not work, it is because step 1 did not work according to plan.
-4) Place your input files in the data folder of the project so that they match up with the files named in *config.json*
+4) Place your input files in a folder the project called "data" so that they match up with the files named in *config.json*
 5) Run the program with
 	```bash
 	npm start
