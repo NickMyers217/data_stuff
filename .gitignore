@@ -1,2 +1,4 @@
 node_modules/
-data/*
+/data/input.xls
+/data/output.xlsx
+/data/ownership_history.txt
